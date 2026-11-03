@@ -1,6 +1,6 @@
 # Workbench
 
-[![CI](https://github.com/BielBabilonia/Workbench/actions/workflows/ci.yml/badge.svg)](https://github.com/BielBabilonia/Workbench/actions/workflows/ci.yml)
+[![CI](https://github.com/BielBabilonia/WorkBench/actions/workflows/ci.yml/badge.svg)](https://github.com/BielBabilonia/WorkBench/actions/workflows/ci.yml)
 
 **Maintenance work-order system with a drag-and-drop Kanban board and role-based access control**,
 in the style of CMMS tools like Fiix, UpKeep or MaintainX. Planners triage and assign jobs, technicians
